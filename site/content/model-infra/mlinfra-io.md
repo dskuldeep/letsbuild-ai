@@ -1,6 +1,6 @@
 +++
 title = "mlinfra.io"
-weight = 10
+weight = 100
 [extra]
 linkURL = "https://mlinfra.io/latest/"
 description = "deploy ML Infrastructure and MLOps tooling anywhere"
